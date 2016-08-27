@@ -1,9 +1,9 @@
 # book
 
-1)游戏设计
-快乐之道-游戏设计的黄金法则(https://book.douban.com/subject/1463225/)
-游戏设计艺术(https://book.douban.com/subject/4837351/)
-游戏设计梦工厂 (https://book.douban.com/subject/26780782/)
+##1)游戏设计
+>快乐之道-游戏设计的黄金法则(https://book.douban.com/subject/1463225/)
+>游戏设计艺术(https://book.douban.com/subject/4837351/)
+>游戏设计梦工厂 (https://book.douban.com/subject/26780782/)
 
 
 2)游戏编程
